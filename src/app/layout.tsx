@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Youtube Thumbnail Downloader",
   description: "Download high-quality thumbnails from YouTube videos",
   applicationName: "Youtube Thumbnail Downloader",
-  keywords: ['youtube', 'thumbnail', 'thumbnails', 'grabber', 'downloader', 'image'],
+  keywords: ['youtube', 'thumbnail', 'thumbnails', 'grabber', 'downloader', 'image', 'download'],
   alternates: {
     canonical: "https://your-website-url.com",
   },
