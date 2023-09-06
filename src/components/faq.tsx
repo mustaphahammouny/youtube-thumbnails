@@ -51,7 +51,7 @@ const Faq = () => {
         <p className="text-lg leading-8 text-gray-900">
           The thumbnails are copyrighted by the video owners. To reuse them, you
           need permission, especially for YouTube videos. For other uses like
-          websites and logos, reusing thumbnails likely won't lead to DMCA
+          websites and logos, reusing thumbnails likely won&apos;t lead to DMCA
           complaints.
         </p>
       </SingleFaq>
